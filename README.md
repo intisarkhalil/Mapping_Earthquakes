@@ -17,10 +17,13 @@ We add a Dark map using MapBox styles Map (```dark-v10```).
 ## Results and Summary:
 When you load the page, it defaults to the Streets view with both the Earthquakes and Tectonic Plate overlays engaged. The legend shows you the color coding for various magnitudes.
 ### Dark Map:
-![Screenshot (439)](https://user-images.githubusercontent.com/62036983/146483768-95525162-c22d-428f-89f6-8c1ee43aad47.png)
+
+![Screenshot (445)](https://user-images.githubusercontent.com/62036983/146489978-1b2934ca-d167-4cb6-b10e-1f19ac496248.png)
 
 ### Streets Map:
-![Screenshot (440)](https://user-images.githubusercontent.com/62036983/146483787-5172cdef-fd15-4ac9-a371-6d27e498c326.png)
+
+![Screenshot (442)](https://user-images.githubusercontent.com/62036983/146489938-be252881-b5ad-447d-a883-6f3283ed7138.png)
 
 ### Setallite Map:
-![Screenshot (441)](https://user-images.githubusercontent.com/62036983/146483810-d9722e61-afb6-4feb-9be3-936e747258e2.png)
+
+![Screenshot (444)](https://user-images.githubusercontent.com/62036983/146490008-c5a3b9c6-5df3-4e02-8084-8fe1a3fd1531.png)
