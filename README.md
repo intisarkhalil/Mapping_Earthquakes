@@ -24,6 +24,6 @@ When you load the page, it defaults to the Streets view with both the Earthquake
 
 ![Screenshot (448)](https://user-images.githubusercontent.com/62036983/146492451-9c27cb48-53bc-4515-b3a3-8cc59d950672.png)
 
-### Setallite Map:
+### Satellite Map:
 
 ![Screenshot (447)](https://user-images.githubusercontent.com/62036983/146492484-08d548b0-2fab-4cb1-8400-969b661e06cc.png)
